@@ -24,11 +24,13 @@ Sou um estudante de Engenharia da Computação no Centro Universitário FACENS e
 Estou aprendendo na prática novas tecnologias, incluisive tenho alguns projetinhos aqui no GitHub (embora nem todos estejam aqui ainda).
 Sobre as tecnologias que vi mais recentemente são elas:
 
+- Java
 - C
 - Python
 - HTML
 - CSS
 - JavaScript
+- SQL
 
 
 ### ⚡ Tempo livre 
