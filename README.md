@@ -43,7 +43,7 @@ Gosto tanto de carros que acabei trabalhando por um tempo no Powertrain do proje
 ### ✉️ Contato 
 Você pode entrar em contato comigo atráves das seguintes redes:
 
-**Linkedin** - [https://www.linkedin.com/in/aliffer-leonn-201246340/](https://www.linkedin.com/in/aliffer-leonn-201246340/)
+**Linkedin** - [https://www.linkedin.com/in/alifferleonn/](https://www.linkedin.com/in/alifferleonn)
 
 **Email** - contato.alifferleonn@gmail.com
 
