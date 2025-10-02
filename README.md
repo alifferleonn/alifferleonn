@@ -25,6 +25,7 @@ Estou aprendendo na prática novas tecnologias, incluisive tenho alguns projetin
 Sobre as tecnologias que vi mais recentemente são elas:
 
 - Python
+- PHP
 - Java
 - C
 - HTML
